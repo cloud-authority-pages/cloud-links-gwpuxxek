@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Mias Angling & Scuba
+Website: https://miasangling.co.za
+Location: Santon
+
+//* SITE */
+Published: 2026-10-01
+Language: English
+Doctype: HTML5
